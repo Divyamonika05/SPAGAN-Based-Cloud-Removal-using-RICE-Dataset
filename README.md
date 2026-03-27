@@ -126,7 +126,6 @@ python src/eval.py
 - Improves visual clarity of satellite data
 - Produces realistic reconstructed outputs
 
-_(Add sample output images here for better presentation)_
 
 ---
 
