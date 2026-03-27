@@ -78,12 +78,7 @@ You can download it from Kaggle:
 1. Download dataset from Kaggle
 2. Extract it
 3. Place it in:
-
-```
-
-dataset/
-
-````
+   dataset/
 
 ---
 
@@ -91,7 +86,7 @@ dataset/
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 ---
 
